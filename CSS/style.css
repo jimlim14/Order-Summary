@@ -1,0 +1,116 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  background-color: hsl(225, 100%, 94%);
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+h2
+{
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+h3
+{
+  padding-left: 50px;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+p
+{
+  color: hsl(224, 23%, 55%);
+  font-size: 16px;
+}
+
+a
+{
+  float: right;
+  position: absolute;
+  right: 80px;
+  top: 0;
+  margin-top: 10px;
+}
+
+.price
+{
+  margin-top: 0;
+}
+
+.icon-music
+{
+  float: left;
+}
+
+.paragraph-1
+{
+  padding: 0 50px 0 50px;
+  line-height: 25px;
+}
+
+.paragraph-2
+{
+  padding: 0 80px 0 80px;
+  text-align: left;
+  position: relative;
+}
+
+.paragraph-3
+{
+  margin: 50px;
+  background-color: hsl(245, 75%, 52%);
+  border-style: none;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px grey;
+}
+
+.payment
+{
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cancel-payment
+{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.annual-plan
+{
+  padding-left: 60px;
+  font-weight: 700;
+  color: black;
+}
+
+.pattern-background-desktop
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 0 auto;
+}
+
+.illustration-hero
+{
+  border-style: none;
+  border-radius: 25px 25px 0 0;
+}
+
+.container
+{
+  position: relative;
+  width: 450px;
+  margin: 50px auto;
+  background-color: white;
+  border-style: none;
+  border-radius: 25px;
+  height: 720px;
+  box-shadow: 0 10px 20px hsl(224, 23%, 55%);
+}
